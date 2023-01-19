@@ -36,11 +36,11 @@ global.swb = '-'
 global.snh = '-' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '-'
-global.povo = '-'
+global.pdana = '082275639713'
+global.povo = '082275639713'
 global.pgopay = '-'
-global.ppulsa = '-'
-global.ppulsa2 = '-'
+global.ppulsa = '082275639713'
+global.ppulsa2 = '082275639713'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
